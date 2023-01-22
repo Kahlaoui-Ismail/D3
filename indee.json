@@ -1,0 +1,63 @@
+[ 
+     { 
+        "countries": [ 
+            {
+                "country": "Austria",
+                "population": "3367266",
+                "gdp": "6539229184.000",
+                "co2_per_capita": "0.099",
+                "region": "Rest of the world"
+              },
+              {
+                "country": "Canada",
+                "population": "822390",
+                "gdp": "1175856000.000",
+                "co2_per_capita": "0.004",
+                "region": "G7"
+              },
+              {
+                "country": "France",
+                "population": "31299931",
+                "gdp": "56531251200.000",
+                "co2_per_capita": "0.093",
+                "region": "G7"
+              },
+              {
+                "country": "Germany",
+                "population": "24844857",
+                "gdp": "39150661632.000",
+                "co2_per_capita": "0.136",
+                "region": "G7"
+              },
+              {
+                "country": "Poland",
+                "population": "10426570",
+                "gdp": "8528467968.000",
+                "co2_per_capita": "0.072",
+                "region": "Rest of the world"
+              },
+              {
+                "country": "United Kingdom",
+                "population": "20706854",
+                "gdp": "70216130560.000",
+                "co2_per_capita": "2.054",
+                "region": "G7"
+              },
+              {
+                "country": "United States",
+                "population": "9966626",
+                "gdp": "26689673216.000",
+                "co2_per_capita": "0.079",
+                "region": "G7"
+              },
+              {
+                "country": "World",
+                "population": "1092947430",
+                "gdp": "1138509742080.000",
+                "co2_per_capita": "0.046",
+                "region": "Rest of the world"
+              }
+        ], 
+        "year": "1820" 
+     }
+]
